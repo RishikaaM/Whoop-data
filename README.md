@@ -31,6 +31,6 @@ p5.js and Three.js communities
 
 ### LINKS:
 
-[ReadMe file] (https://github.com/RishikaaM/Whoop-data/edit/main/README.md )
+[ReadMe file](https://github.com/RishikaaM/Whoop-data/edit/main/README.md)
 
 https://rishikaam.github.io/Whoop-data/index.html

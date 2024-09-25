@@ -26,11 +26,11 @@ This project, part of my Studio class, is a dynamic website to visualize my pers
 
 1. Clone the repository :
 
-'''git clone https://github.com/yourusername/Whoop-data.git'''
+```git clone https://github.com/yourusername/Whoop-data.git```
 
-2. Open the 'index.html' file in your browser:
+2. Open the `index.html` file in your browser:
 
-'''open index.html'''
+```open index.html```
 
 3. Explore interactive charts and visualize WHOOP data.
 

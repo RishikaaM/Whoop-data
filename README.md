@@ -8,29 +8,29 @@ This project, part of my Studio class, is a dynamic website to visualize my pers
 
 ### Features :
 
-Visualization of daily stress, sleep, and recovery patterns
+- Visualization of daily stress, sleep, and recovery patterns
 
-Interactive charts with animation effects
+- Interactive charts with animation effects
 
-Personal health data display
+- Personal health data display
 
 
 ### Technology :
 
-Tech stack (HTML, CSS, JavaScript)
+- Tech stack (HTML, CSS, JavaScript)
 
-External libraries (Three.js, p5.js for interactive elements)
+- External libraries (Three.js, p5.js for interactive elements)
 
 
 ### Credits :
 
-WHOOP for health data
+- WHOOP for health data
 
-p5.js and Three.js communities
+- p5.js and Three.js communities
 
 
 ### LINKS:
 
 [ReadMe file](https://github.com/RishikaaM/Whoop-data/edit/main/README.md)
 
-https://rishikaam.github.io/Whoop-data/index.html
+[Project link](https://rishikaam.github.io/Whoop-data/index.html)

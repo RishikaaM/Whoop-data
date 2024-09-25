@@ -17,5 +17,5 @@ WHOOP for health data
 p5.js and Three.js communities
 
 LINKS:
-https://rishikaam.github.io/Whoop-data/about.html
 https://github.com/RishikaaM/Whoop-data/edit/main/README.md
+https://rishikaam.github.io/Whoop-data/index.html

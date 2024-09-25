@@ -22,6 +22,19 @@ This project, part of my Studio class, is a dynamic website to visualize my pers
 - External libraries (Three.js, p5.js for interactive elements)
 
 
+### Installation and Usage : 
+
+1. Clone the repository :
+
+'''git clone https://github.com/yourusername/Whoop-data.git'''
+
+2. Open the 'index.html' file in your browser:
+
+'''open index.html'''
+
+3. Explore interactive charts and visualize WHOOP data.
+
+
 ### Credits :
 
 - WHOOP for health data
@@ -29,8 +42,8 @@ This project, part of my Studio class, is a dynamic website to visualize my pers
 - p5.js and Three.js communities
 
 
-### LINKS:
+### LINKS :
 
-[ReadMe file](https://github.com/RishikaaM/Whoop-data/edit/main/README.md)
+[Github Repo](https://github.com/RishikaaM/Whoop-data)
 
-[Project link](https://rishikaam.github.io/Whoop-data/index.html)
+[Project demo](https://rishikaam.github.io/Whoop-data/index.html)
